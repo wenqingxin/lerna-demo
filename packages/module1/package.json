@@ -1,5 +1,5 @@
 {
-  "name": "module1",
+  "name": "@qxwen/module1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "4c4630a81c1e64a18a07c1f94f558abeeebbe3a1"
+  "gitHead": "c4029d109e7cce72185e2c96b29add2edf3547d3"
 }
