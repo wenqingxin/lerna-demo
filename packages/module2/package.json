@@ -1,5 +1,5 @@
 {
-  "name": "@qxwen/module2",
+  "name": "qxwen-lerna-module2",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "c4029d109e7cce72185e2c96b29add2edf3547d3"
+  "gitHead": "664a714d3b5b3eb935d39a7ab21d3fcfcbc02e6a"
 }
