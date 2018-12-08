@@ -1,0 +1,44 @@
+13 error Error: Command failed: git rev-list --count --all --max-count=1
+13 error usage: git rev-list [OPTION] <commit-id>... [ -- paths... ]
+13 error   limiting output:
+13 error     --max-count=<n>
+13 error     --max-age=<epoch>
+13 error     --min-age=<epoch>
+13 error     --sparse
+13 error     --no-merges
+13 error     --min-parents=<n>
+13 error     --no-min-parents
+13 error     --max-parents=<n>
+13 error     --no-max-parents
+13 error     --remove-empty
+13 error     --all
+13 error     --branches
+13 error     --tags
+13 error     --remotes
+13 error     --stdin
+13 error     --quiet
+13 error   ordering output:
+13 error     --topo-order
+13 error     --date-order
+13 error     --reverse
+13 error   formatting output:
+13 error     --parents
+13 error     --children
+13 error     --objects | --objects-edge
+13 error     --unpacked
+13 error     --header | --pretty
+13 error     --abbrev=<n> | --no-abbrev
+13 error     --abbrev-commit
+13 error     --left-right
+13 error     --count
+13 error   special purpose:
+13 error     --bisect
+13 error     --bisect-vars
+13 error     --bisect-all
+13 error
+13 error
+13 error     at makeError (/Users/wenqingxin/.nvm/versions/node/v10.4.1/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
+13 error     at Function.module.exports.sync (/Users/wenqingxin/.nvm/versions/node/v10.4.1/lib/node_modules/lerna/node_modules/execa/index.js:338:15)
+13 error     at Object.execSync (/Users/wenqingxin/.nvm/versions/node/v10.4.1/lib/node_modules/lerna/node_modules/@lerna/child-process/index.js:22:16)
+13 error     at isAnythingCommitted (/Users/wenqingxin/.nvm/versions/node/v10.4.1/lib/node_modules/lerna/node_modules/@lerna/version/lib/is-anything-committed.js:11:35)
+13 error     at VersionCommand.initialize (/Users/wenqingxin/.nvm/versions/node/v10.4.1/lib/node_modules/lerna/node_modules/@lerna/version/index.js:81:10)
